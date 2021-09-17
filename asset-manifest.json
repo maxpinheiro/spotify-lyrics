@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spotify-lyrics/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/spotify-lyrics/static/js/main.e2297002.chunk.js",
-    "main.js.map": "/spotify-lyrics/static/js/main.e2297002.chunk.js.map",
+    "main.js": "/spotify-lyrics/static/js/main.6f6b8274.chunk.js",
+    "main.js.map": "/spotify-lyrics/static/js/main.6f6b8274.chunk.js.map",
     "runtime-main.js": "/spotify-lyrics/static/js/runtime-main.5d532e03.js",
     "runtime-main.js.map": "/spotify-lyrics/static/js/runtime-main.5d532e03.js.map",
     "static/js/2.7e410514.chunk.js": "/spotify-lyrics/static/js/2.7e410514.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5d532e03.js",
     "static/js/2.7e410514.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e2297002.chunk.js"
+    "static/js/main.6f6b8274.chunk.js"
   ]
 }
